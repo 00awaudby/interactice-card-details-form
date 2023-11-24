@@ -45,7 +45,7 @@ body{
 .front-card{
     width: 290px;
     height: 170px;
-    background-image: url(./images/bg-card-front.png);
+    background-image: url(/images/bg-card-front.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
