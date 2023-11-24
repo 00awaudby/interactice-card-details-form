@@ -29,7 +29,7 @@ body{
 .bank-card-area{
     height: 300px;
     width: 100%;
-    background-image: url(/images/bg-main-mobile.png);
+    background-image: url(../images/bg-main-mobile.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
