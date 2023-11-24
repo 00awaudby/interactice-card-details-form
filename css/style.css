@@ -29,7 +29,7 @@ body{
 .bank-card-area{
     height: 300px;
     width: 100%;
-    background-image: url(/images/bg-main-mobile.png);
+    background-image: url(../images/bg-main-mobile.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -45,7 +45,7 @@ body{
 .front-card{
     width: 290px;
     height: 170px;
-    background-image: url(/images/bg-card-front.png);
+    background-image: url(../images/bg-card-front.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -63,7 +63,7 @@ body{
 .back-card{
     width: 290px;
     height: 170px;
-    background-image: url(/images/bg-card-back.png);
+    background-image: url(../images/bg-card-back.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -198,7 +198,7 @@ label{
         width: 40%;
         max-width: 500px;
         gap: 2rem;
-        background-image: url(/images/bg-main-desktop.png);
+        background-image: url(../images/bg-main-desktop.png);
     }
 
     .front-card{
