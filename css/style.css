@@ -21,6 +21,15 @@
     box-sizing: border-box;
 }
 
+.red{
+    border: 2px solid var(--Red-input-errors);
+}
+
+.success{
+    border: 2px solid green;
+
+}
+
 body{    
     font-family: 'Space Grotesk', sans-serif;
     font-size: var(--font-size)
